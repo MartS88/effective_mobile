@@ -1,0 +1,10 @@
+node_modules
+test
+.gitignore
+.git
+.prettierrc
+Dockerfile
+README.md
+session_db.json
+c.js
+.idea
